@@ -8,11 +8,23 @@
 
 ---
 
-### ### ❤️ Games I Like
+### ❤️ Games I Like
 
-<iframe src="https://store.steampowered.com/widget/1091500/" frameborder="0" width="646" height="190"></iframe>
+#### 🎮 [Minecraft](https://www.minecraft.net/en-us)
 
-<iframe src="https://store.steampowered.com/widget/367520/" frameborder="0" width="646" height="190"></iframe>
+#### 🎮 [Terraria](https://store.steampowered.com/app/105600/Terraria/)
+
+#### 🎮 [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)
+
+#### 🎮 [Hollow Knight: Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/)
+
+#### 🎮 [Undertale](https://store.steampowered.com/app/391540/Undertale/)
+
+#### 🎮 [Deltarune](https://store.steampowered.com/app/1671210/DELTARUNE/)
+
+#### 🎮 [OneShot](https://store.steampowered.com/app/420530/OneShot/)
+
+#### 🎮 [And so on](https://steamcommunity.com/profiles/76561199212492626/games/?tab=all)
 
 ---
 
