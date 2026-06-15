@@ -58,7 +58,7 @@ I'm a full-stack developer who loves building things with code.
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
