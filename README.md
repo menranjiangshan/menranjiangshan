@@ -41,6 +41,15 @@ I'm a full-stack developer who loves building things with code.
   </tr>
 </table>
 
+#### ⭐ Favorites
+
+<img src="vtuber-style-logos/Python.png" width="160" />
+<img src="vtuber-style-logos/GodotLogo.png" width="160" />
+<img src="vtuber-style-logos/Vue.png" width="160" />
+
+<img src="vtuber-style-logos/Ubuntu.png" width="160" />
+<img src="vtuber-style-logos/ArchLinux.png" width="160" />
+
 ---
 
 ### 📊 GitHub Stats
