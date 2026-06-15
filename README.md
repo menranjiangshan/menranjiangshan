@@ -1,20 +1,20 @@
-### 🤖 GitHub Contributions 👇👇👇
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
+### Hi there 👋
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-### 🛠️ Tech Stack 👇👇👇
+### 🛠️ Tech Stack
 
-<table align="center">
+<table>
   <tr>
-    <td valign="center" width="200"><b>Languages</b></td>
+    <td valign="center" width="150"><b>Languages</b></td>
     <td valign="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=light">
@@ -24,7 +24,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="center" width="200"><b>Frameworks</b></td>
+    <td valign="center" width="150"><b>Frameworks</b></td>
     <td valign="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=light">
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="center" width="200"><b>Game Engine & IDEs</b></td>
+    <td valign="center" width="150"><b>Game Engine & IDEs</b></td>
     <td valign="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=light">
@@ -44,7 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="center" width="200"><b>Databases</b></td>
+    <td valign="center" width="150"><b>Databases</b></td>
     <td valign="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=light">
@@ -54,7 +54,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="center" width="200"><b>DevOps</b></td>
+    <td valign="center" width="150"><b>DevOps</b></td>
     <td valign="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=light">
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="center" width="200"><b>Operating Systems</b></td>
+    <td valign="center" width="150"><b>Operating Systems</b></td>
     <td valign="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=light">
@@ -77,8 +77,9 @@
 
 ---
 
-### 🌐 Contact Information 👇👇👇
+### 📫 Contact
 
-#### ♠️ Email 1: <email-e@playereg.top>
+[![Email](https://img.shields.io/badge/Email-gaster%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:gaster@vip.playereg.top)
+[![Email](https://img.shields.io/badge/Email-ender%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:ender@vip.playereg.top)
 
-#### ♣️ Email 2: <email-g@playereg.top>
+</div>
