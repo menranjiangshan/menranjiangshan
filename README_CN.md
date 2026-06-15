@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="README.md">English</a> | <a href="README_CN.md"><b>简体中文</b></a>
+[![English](https://img.shields.io/badge/🇺🇸_English-gray?style=for-the-badge)](README.md) [![简体中文](https://img.shields.io/badge/🇨🇳_简体中文-blue?style=for-the-badge)](README_CN.md)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=PlayerEG&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=开发者%20%7C%20玩家%20%7C%20创作者&descSize=14&descAlignY=55" />
 
