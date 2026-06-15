@@ -55,9 +55,9 @@
     <td valign="center" width="200"><b>DevOps</b></td>
     <td valign="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git&theme=light">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git&theme=dark">
-        <img alt="DevOps" src="https://skillicons.dev/icons?i=docker,git&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=light">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=dark">
+        <img alt="DevOps" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=light">
       </picture>
     </td>
   </tr>
