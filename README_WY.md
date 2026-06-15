@@ -12,7 +12,7 @@
 
 ---
 
-### 吾之器物
+### 吾之技艺
 
 <table>
   <tr>
@@ -20,7 +20,7 @@
     <td valign="center"><img src="https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>框架</b></td>
+    <td valign="center" width="150"><b>构架</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=dark" /></td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
     <td valign="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>DevOps</b></td>
+    <td valign="center" width="150"><b>造运</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=dark" /></td>
   </tr>
   <tr>

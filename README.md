@@ -12,7 +12,7 @@
 
 ---
 
-### 🧰 My Toolkit
+### 🧰 My Skills
 
 <table>
   <tr>
