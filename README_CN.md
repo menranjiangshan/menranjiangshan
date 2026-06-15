@@ -6,7 +6,7 @@
 
 ### 👋 你好!!!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=我是一名全栈开发者;热爱用代码构建事物。&border=58A6FF&borderRadius=0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=我是一名全栈开发者;热爱用代码构建事物.&border=58A6FF&borderRadius=0)](https://git.io/typing-svg)
 
 🧑‍💻 **开发者** · 🎮 **玩家** · 🎵 **音乐爱好者** · 🎹 **音乐创作者**
 
