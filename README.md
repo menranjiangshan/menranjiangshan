@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 My Toolkit
 
 <table>
   <tr>
