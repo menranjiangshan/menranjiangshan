@@ -1,34 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=PlayerEG&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Creator&descSize=14&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=PlayerEG&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=開発者%20%7C%20ゲーマー%20%7C%20クリエイター&descSize=14&descAlignY=55" />
 
 <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README.md">English</a> | <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README_CN.md">简体中文</a> | <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README_TW.md">繁體中文</a> | <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README_JA.md">日本語</a>
 
-### 👋 Hello!!!
+### 👋 こんにちは!!!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=I'm+a+full-stack+developer;who+loves+building+things+with+code.&border=58A6FF&borderRadius=0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=フルスタック開発者です;コードで物を作るのが好きです.&border=58A6FF&borderRadius=0)](https://git.io/typing-svg)
 
-🧑‍💻 **Developer** · 🎮 **Gamer** · 🎵 **Music Lover** · 🎹 **Music Creator**
+🧑‍💻 **開発者** · 🎮 **ゲーマー** · 🎵 **音楽愛好家** · 🎹 **音楽クリエイター**
 
 ---
 
-### 🧰 My Toolkit
+### 🧰 ツールキット
 
 <table>
   <tr>
-    <td valign="center" width="150"><b>Languages</b></td>
+    <td valign="center" width="150"><b>プログラミング言語</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Frameworks</b></td>
+    <td valign="center" width="150"><b>フレームワーク</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Game Engine & IDEs</b></td>
+    <td valign="center" width="150"><b>ゲームエンジン & IDE</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Databases</b></td>
+    <td valign="center" width="150"><b>データベース</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark" /></td>
   </tr>
   <tr>
@@ -36,12 +36,12 @@
     <td valign="center"><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Operating Systems</b></td>
+    <td valign="center" width="150"><b>オペレーティングシステム</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=dark" /></td>
   </tr>
 </table>
 
-#### ⭐ Favorites
+#### ⭐ お気に入り
 
 <table>
   <tr>
@@ -58,7 +58,7 @@
 
 ---
 
-### 🐍 GitHub Contributions
+### 🐍 GitHub コントリビューション
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
@@ -68,7 +68,7 @@
 
 ---
 
-### 📫 Contact
+### 📫 連絡先
 
 [![Email](https://img.shields.io/badge/Email-gaster%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:gaster@vip.playereg.top)
 [![Email](https://img.shields.io/badge/Email-ender%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:ender@vip.playereg.top)

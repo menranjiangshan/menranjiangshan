@@ -1,47 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=PlayerEG&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Creator&descSize=14&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=PlayerEG&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=开发者%20%7C%20玩家%20%7C%20创作者&descSize=14&descAlignY=55" />
 
 <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README.md">English</a> | <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README_CN.md">简体中文</a> | <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README_TW.md">繁體中文</a> | <a href="https://github.com/Abyss-PlayerEG/Abyss-PlayerEG/blob/main/README_JA.md">日本語</a>
 
-### 👋 Hello!!!
+### 👋 你好!!!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=I'm+a+full-stack+developer;who+loves+building+things+with+code.&border=58A6FF&borderRadius=0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=我是一名全栈开发者;热爱用代码构建事物.&border=58A6FF&borderRadius=0)](https://git.io/typing-svg)
 
-🧑‍💻 **Developer** · 🎮 **Gamer** · 🎵 **Music Lover** · 🎹 **Music Creator**
+🧑‍💻 **开发者** · 🎮 **玩家** · 🎵 **音乐爱好者** · 🎹 **音乐创作者**
 
 ---
 
-### 🧰 My Toolkit
+### 🧰 我的工具箱
 
 <table>
   <tr>
-    <td valign="center" width="150"><b>Languages</b></td>
+    <td valign="center" width="150"><b>编程语言</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Frameworks</b></td>
+    <td valign="center" width="150"><b>框架</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Game Engine & IDEs</b></td>
+    <td valign="center" width="150"><b>游戏引擎 & IDE</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Databases</b></td>
+    <td valign="center" width="150"><b>数据库</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>DevOps</b></td>
+    <td valign="center" width="150"><b>运维</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=dark" /></td>
   </tr>
   <tr>
-    <td valign="center" width="150"><b>Operating Systems</b></td>
+    <td valign="center" width="150"><b>操作系统</b></td>
     <td valign="center"><img src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=dark" /></td>
   </tr>
 </table>
 
-#### ⭐ Favorites
+#### ⭐ 最爱
 
 <table>
   <tr>
@@ -58,7 +58,7 @@
 
 ---
 
-### 🐍 GitHub Contributions
+### 🐍 GitHub 贡献
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
@@ -68,7 +68,7 @@
 
 ---
 
-### 📫 Contact
+### 📫 联系方式
 
 [![Email](https://img.shields.io/badge/Email-gaster%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:gaster@vip.playereg.top)
 [![Email](https://img.shields.io/badge/Email-ender%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:ender@vip.playereg.top)
