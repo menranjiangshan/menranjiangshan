@@ -2,8 +2,11 @@
 
 ### Hi there 👋
 
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Abyss-PlayerEG)
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Abyss-PlayerEG)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -11,33 +14,51 @@
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=light#gh-light-mode-only)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=dark">
+  <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,js,go,html,css&theme=dark">
+</picture>
 
 #### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=light#gh-light-mode-only)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=dark">
+  <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,vue&theme=dark">
+</picture>
 
 #### Game Engine & IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=light#gh-light-mode-only)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=dark">
+  <img alt="Game Engine & IDEs" src="https://skillicons.dev/icons?i=godot,idea,pycharm,webstorm,vscode,arduino&theme=dark">
+</picture>
 
 #### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=light#gh-light-mode-only)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark">
+  <img alt="Databases" src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark">
+</picture>
 
 #### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=light#gh-light-mode-only)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=dark">
+  <img alt="DevOps" src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,cloudflare,bash,powershell&theme=dark">
+</picture>
 
 #### Operating Systems
 
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=light#gh-light-mode-only)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=dark">
+  <img alt="Operating Systems" src="https://skillicons.dev/icons?i=windows,apple,ubuntu,kali,debian,arch&theme=dark">
+</picture>
 
 ---
 
