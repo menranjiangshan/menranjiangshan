@@ -1,12 +1,14 @@
 <div align="center">
 
-### Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=PlayerEG&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Creator&descSize=14&descAlignY=55" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+### 👋 Hello!!!
+
+I'm a full-stack developer who loves building things with code.
+
+🧑‍💻 **Developer** · 🎮 **Gamer** · 🎵 **Music Lover** · 🎹 **Music Creator**
 
 ---
 
@@ -41,9 +43,24 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abyss-PlayerEG/Abyss-PlayerEG/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-gaster%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:gaster@vip.playereg.top)
 [![Email](https://img.shields.io/badge/Email-ender%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:ender@vip.playereg.top)
+[![Blog](https://img.shields.io/badge/Blog-blog.playereg.top-green?style=flat-square&logo=blogger)](https://blog.playereg.top)
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
 
 </div>
