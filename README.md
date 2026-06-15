@@ -43,16 +43,16 @@ I'm a full-stack developer who loves building things with code.
 
 #### ⭐ Favorites
 
-<table border="0" cellpadding="10" cellspacing="0">
+<table>
   <tr>
-    <td align="center"><img src="vtuber-style-logos/Python.png" width="160" /><br><b>Python</b></td>
-    <td align="center"><img src="vtuber-style-logos/Java.png" width="160" /><br><b>Java</b></td>
-    <td align="center"><img src="vtuber-style-logos/GodotLogo.png" width="160" /><br><b>Godot</b></td>
+    <td align="center"><img src="vtuber-style-logos/Python.png" width="160" /></td>
+    <td align="center"><img src="vtuber-style-logos/Java.png" width="160" /></td>
+    <td align="center"><img src="vtuber-style-logos/GodotLogo.png" width="160" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="vtuber-style-logos/Vue.png" width="160" /><br><b>Vue</b></td>
-    <td align="center"><img src="vtuber-style-logos/Ubuntu.png" width="160" /><br><b>Ubuntu</b></td>
-    <td align="center"><img src="vtuber-style-logos/ArchLinux.png" width="160" /><br><b>Arch</b></td>
+    <td align="center"><img src="vtuber-style-logos/Vue.png" width="160" /></td>
+    <td align="center"><img src="vtuber-style-logos/Ubuntu.png" width="160" /></td>
+    <td align="center"><img src="vtuber-style-logos/ArchLinux.png" width="160" /></td>
   </tr>
 </table>
 
