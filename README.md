@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Hi there 👋
 
 <picture>
@@ -81,5 +79,3 @@
 
 [![Email](https://img.shields.io/badge/Email-gaster%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:gaster@vip.playereg.top)
 [![Email](https://img.shields.io/badge/Email-ender%40vip.playereg.top-blue?style=flat-square&logo=mail)](mailto:ender@vip.playereg.top)
-
-</div>
