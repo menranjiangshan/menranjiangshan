@@ -2,7 +2,7 @@
 
 [![简体中文](https://img.shields.io/badge/简体中文-blue?style=for-the-badge)](README.md) [![English](https://img.shields.io/badge/English-gray?style=for-the-badge)](README_EN.md)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=dream-dye&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=ctrl工程师 | 玩家 | 哈基米&descSize=14&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=dream%20dye&fontSize=30&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=ctrl工程师%20%7C%20玩家%20%7C%20哈基米&descSize=14&descAlignY=55" />
 
 ### 👋 你好！！！
 
